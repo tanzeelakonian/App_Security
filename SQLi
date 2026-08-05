@@ -16,4 +16,6 @@ It is tricking the system to allow you inside the website without any password. 
 
 LAB 2-
 
+~Retrieving data from other database tables
+Attacker can use UNION keyword to the query to retrive the information from other data bases
 
