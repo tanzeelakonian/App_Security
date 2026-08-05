@@ -1,0 +1,13 @@
+What is SQL injection?
+sql injection is modifying the query made by the application, to retrive data from data bases 
+and stealing data like passwords, credit card details etc...
+
+SQL injection examples?
+~ Retriving hidden data
+it is using a query to get additional information.
+Example: Using "'--" or "'+0R+1=1" to the URL to get the extra information which is not offically available yet 
+but trying to retirve it using this SQL injection techniques
+
+LAB 1-
+SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+
