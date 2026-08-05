@@ -11,3 +11,9 @@ but trying to retirve it using this SQL injection techniques
 LAB 1-
 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
 
+~Subverting the SQL logic
+It is tricking the system to allow you inside the website without any password. using same commenting logic , lets slove the LAB for this
+
+LAB 2-
+
+
